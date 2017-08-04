@@ -1,0 +1,8 @@
+print('welcome to my first madlib. Please follow the prompt')
+print('please give me a noun')
+noun = input()
+print('now give me an adjective')
+adjective = input()
+print('lastly, give me another noun')
+noun_two = input()
+print('The ' + (noun) + ' jumped over the ' + (adjective) + ' ' + (noun_two))
